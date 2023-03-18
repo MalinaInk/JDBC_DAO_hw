@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.malinaInk</groupId>
-    <artifactId>JDBC_DAO_Lesson</artifactId>
+    <artifactId>JDBC_DAO_hw</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
